@@ -4,4 +4,4 @@
 
 #### Refer "summer.csv" for the raw data.
 
-#### I have done data analysis and visualization and draws some insights out from it.
+#### I have done visualization and data analysis and draws some insights out from it.
