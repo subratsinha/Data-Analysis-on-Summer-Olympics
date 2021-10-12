@@ -9,4 +9,4 @@
 
 #### 1. Sport's having most number of Gold Medals so far.
 
-<img src="images/Screenshot 2021-10-12 093902">
+<img src="images/Screenshot 2021-10-12 093902.jpg">
